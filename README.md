@@ -2,6 +2,8 @@
 
 My personal portfolio website. It shows what I can do, the projects I've built, and how to reach me.
 
+**Live site:** [danaxeltongolportfolio.vercel.app](https://danaxeltongolportfolio.vercel.app/)
+
 ## Features
 
 - Interactive design with draggable stickers and project cards that stack as you scroll
@@ -19,14 +21,14 @@ My personal portfolio website. It shows what I can do, the projects I've built, 
 
 ## Projects shown
 
-- **JobIT** — a marketplace for local gigs and side jobs ([live site](http://tongol-danaxel.infy.click), [code](https://github.com/danaxeltongol/JobIT))
-- **KickStart** — a sneaker store website
+- **JobIT** — a marketplace for local gigs and side jobs ([live site](http://tongol-danaxel.infy.click/), [code](https://github.com/danaxeltongol/JobIT))
+- **KickStart** — a sneaker store website ([code](https://github.com/danaxeltongol/KICKSTART))
 - **TIP Canteen POS System** — a point-of-sale desktop app
 - **Palengke Price Watch** — a desktop app for monitoring market prices
 
 ## Run it on your computer
 
-You need [Node.js](https://nodejs.org) installed.
+You need [Node.js](https://nodejs.org/) installed.
 
 ```bash
 git clone https://github.com/danaxeltongol/MyPortfolio.git
@@ -52,5 +54,6 @@ public/
 
 ## Contact
 
+- Portfolio: [danaxeltongolportfolio.vercel.app](https://danaxeltongolportfolio.vercel.app/)
 - GitHub: [danaxeltongol](https://github.com/danaxeltongol)
 - LinkedIn: [dan-axel-tongol](https://www.linkedin.com/in/dan-axel-tongol-8015763a0/)
