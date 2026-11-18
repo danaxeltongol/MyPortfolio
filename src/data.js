@@ -110,9 +110,9 @@ export const ticker = [
 export const projects = [
   {
     title: 'JobIT',
-    role: 'Team leader and full-stack developer',
+    role: 'Team Lead, Full-Stack Developer',
     description:
-      'A marketplace for local gigs and side jobs. It matches people to gigs by skills, schedule, and location, and ranks the results with a hand-written merge sort.',
+      'A web platform for finding local gigs and side jobs. Matches users to gigs by skills, schedule, and location, then ranks results using a custom merge sort.',
     tags: ['PHP', 'MySQL', 'JavaScript', 'Merge sort'],
     color: 'cobalt',
     image: jobItImage,
@@ -122,20 +122,22 @@ export const projects = [
   },
   {
     title: 'KickStart',
-    role: 'Designer and front-end developer',
+    role: 'Full-Stack Developer',
     description:
-      'A responsive sneaker store website with a product catalog, product pages, and a cart.',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Figma'],
+      'An online sneaker store with a product catalog, product detail pages, a shopping cart, and user accounts with sign-up, login, and password reset. Designed in Figma and built to work on any screen size.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Firebase', 'Figma'],
     color: 'pink',
     image: kickstartImage,
     imageAlt: 'Screens from the KickStart sneaker store website',
+    liveUrl: 'https://kickstart-nine-ivory.vercel.app',
+    codeUrl: 'https://github.com/danaxeltongol/KICKSTART',
   },
   {
     title: 'TIP Canteen POS System',
     windowTitle: 'TIP Canteen POS',
-    role: 'Interface developer',
+    role: 'Full-Stack Developer',
     description:
-      'A point-of-sale desktop app for a canteen. I worked on the interface and the transaction flow.',
+      'A point-of-sale desktop application for a school canteen. Handles sales transactions, tracks inventory, and generates sales reports.',
     tags: ['Java', 'Java Swing', 'OOP'],
     color: 'mint',
     image: tipPosImage,
@@ -143,8 +145,9 @@ export const projects = [
   },
   {
     title: 'Palengke Price Watch',
-    role: 'Team project', // TODO: change this to what you did in the group
-    description: 'A desktop app for monitoring the prices of goods in local markets.',
+    role: 'Full-Stack Developer',
+    description:
+      'A desktop application that monitors the prices of market goods across six districts in Manila. Built and tested with sample price data.',
     tags: ['Java', 'Java Swing', 'OOP'],
     color: 'lemon',
     image: null, // no screenshot yet, so a striped placeholder is shown
