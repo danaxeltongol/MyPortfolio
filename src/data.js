@@ -38,9 +38,9 @@ export const about = {
   photo: aboutPhoto,
   photoAlt: 'Photo of Dan Axel M. Tongol',
   // Each line below is one paragraph.
-  paragraphs: [
-    'I got into programming because too many government websites were slow and confusing. I wanted to build the opposite.',
-    'I like designing something, then turning it into a real, working product.',
+   paragraphs: [
+    'I am a web developer and UI/UX designer based in Quezon City, Philippines, with experience building full-stack web applications and Java desktop systems. My work covers the full development process, from user research and wireframing to database design, implementation, and deployment.',
+    'My focus is on usability and accessibility. Many public-sector websites remain difficult to navigate, especially on mobile devices, and that gap shaped how I approach every project: start with the user, design a clear interface, and build it to perform reliably on any screen.',
   ],
   // How I approach a project.
   principles: [
@@ -122,9 +122,9 @@ export const projects = [
   },
   {
     title: 'KickStart',
-    role: 'Full-Stack Developer',
+    role: 'Team Lead, Full-Stack Developer',
     description:
-      'An online sneaker store with a product catalog, product detail pages, a shopping cart, and user accounts with sign-up, login, and password reset. Designed in Figma and built to work on any screen size.',
+      'An online sneaker store with a product catalog, product detail pages, a shopping cart, and user accounts with sign-up, login, and password reset. Designed in Figma and built with HTML, CSS, JavaScript, and Firebase.',
     tags: ['HTML', 'CSS', 'JavaScript', 'Firebase', 'Figma'],
     color: 'pink',
     image: kickstartImage,
@@ -135,7 +135,7 @@ export const projects = [
   {
     title: 'TIP Canteen POS System',
     windowTitle: 'TIP Canteen POS',
-    role: 'Full-Stack Developer',
+    role: 'UX Designer, Full-Stack Developer',
     description:
       'A point-of-sale desktop application for a school canteen. Handles sales transactions, tracks inventory, and generates sales reports.',
     tags: ['Java', 'Java Swing', 'OOP'],
@@ -145,7 +145,7 @@ export const projects = [
   },
   {
     title: 'Palengke Price Watch',
-    role: 'Full-Stack Developer',
+    role: 'Concept and Wireframes, Full-Stack Developer',
     description:
       'A desktop application that monitors the prices of market goods across six districts in Manila. Built and tested with sample price data.',
     tags: ['Java', 'Java Swing', 'OOP'],
